@@ -1,8 +1,9 @@
 body {
   font-family: Verdana, Arial, sans-serif;
 }
-  
+title {
+color: #00ff4c;
+}  
 h1 {
 color: #00ff4c;
-background-color: #ffffff;
 }
