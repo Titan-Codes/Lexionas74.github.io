@@ -1,22 +1,9 @@
-ul {
-  font-family: "Verdana", sans-serif;
-  background-color: red;
-  color: white;
-  padding: 8px 0;
+body {
+  font-family: Verdana, Arial, sans-serif;
 }
-li {
-  padding: 8px 20px;
-  display: inline;
+h2 {
+color: #ffffff;
+}  
+h1 {
+color: #ffffff;
 }
-li.active {
-  background-color: black;
-}
-.header {
-  color: #00ff15;
-  background-color: #141414;
-  padding: 2px 16px;
-}   
-.mainContent {
-  background-color: #ffffff;
-  padding: 4px 16px;
-}     
